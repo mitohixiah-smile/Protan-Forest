@@ -13,7 +13,7 @@
     /* ------------------ トップ ------------------ */
     .top-bg {
         background: url(./images/topimage1.jpg) center / cover no-repeat;
-        height: 100vh;
+        height: 90vh;
         position: relative;
         margin-bottom: 2rem;
     }
@@ -337,6 +337,7 @@
             grid-template-columns: 1fr; /* スマホでは1列 */
         }
     }
+
 
 
 
